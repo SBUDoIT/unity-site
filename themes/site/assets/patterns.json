@@ -1,0 +1,7 @@
+{
+
+	"lodyas-light": {
+		"overlayBlacklist": ["overlay-white"],
+		"overlayDefault": "overlay-gray"
+	}
+}
